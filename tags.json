@@ -8,5 +8,15 @@
       "nightly-20230807.1",
       "nightly-172fb23"
     ]
+  },
+  "release": {
+    "description": "Stable",
+    "last_updated": "2023-09-08T06:20:57.970Z",
+    "latest": true,
+    "tags": [
+      "release",
+      "release-10.8.10-1",
+      "release-d218213"
+    ]
   }
 }
