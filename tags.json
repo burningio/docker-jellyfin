@@ -1,12 +1,12 @@
 {
   "nightly": {
     "description": "Unstable",
-    "last_updated": "2023-09-25T16:14:40.940Z",
+    "last_updated": "2023-09-25T16:34:14.541Z",
     "latest": false,
     "tags": [
       "nightly",
-      "nightly-20230925.3",
-      "nightly-da25218"
+      "nightly-20230925.4",
+      "nightly-3d924e7"
     ]
   },
   "release": {
