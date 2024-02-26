@@ -2,13 +2,13 @@
   "nightly": {
     "description": "Unstable",
     "hide": false,
-    "last_updated": "2024-02-25T19:28:05.000Z",
-    "last_updated_url": "https://github.com/hotio/jellyfin/actions/runs/8040200366",
+    "last_updated": "2024-02-26T07:14:44.000Z",
+    "last_updated_url": "https://github.com/hotio/jellyfin/actions/runs/8044909930",
     "latest": false,
     "tags": [
       "nightly",
       "nightly-20231115.15",
-      "nightly-3df8434"
+      "nightly-33a70b0"
     ]
   },
   "release": {
